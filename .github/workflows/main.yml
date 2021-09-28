@@ -3,7 +3,7 @@ name: Deploy ASP.Net Core
 on:
   push:
     branches:
-      - master
+      - main
 
 env:
   AZURE_WEBAPP_NAME: cloudskills29092021
